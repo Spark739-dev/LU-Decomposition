@@ -24,6 +24,8 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 
 ```
+## Program1:
+
 '''Program to find L and U matrix using LU decomposition.
 Developed by: veshwanth
 RegisterNumber: 24010033
@@ -41,6 +43,8 @@ use lu decomposition to solve a matrix
 
 
 ```
+## Program2:
+
 '''Program to solve a matrix using LU decomposition.
 Developed by: veshwanth
 RegisterNumber: 24010033

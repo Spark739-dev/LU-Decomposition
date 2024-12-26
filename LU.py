@@ -5,7 +5,7 @@ piv,l_matrix,u_matrix=lu(matrix)
 print(l_matrix)
 print(u_matrix)
 
- 
+
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
 matrix=np.array(eval(input()))
